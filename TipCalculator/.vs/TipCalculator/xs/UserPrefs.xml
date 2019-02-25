@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{762773F6-FC8A-422E-8C9C-7A409CB1E9EA}|Default">
+  <MonoDevelop.Ide.ItemProperties.TipCalculator.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TipCalculator/MainPage.xaml">
+    <Files>
+      <File FileName="TipCalculator/MainPage.xaml.cs" Line="60" Column="2" />
+      <File FileName="TipCalculator/App.xaml.cs" Line="33" Column="1" />
+      <File FileName="TipCalculator/MainPage.xaml" Line="33" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

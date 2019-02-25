@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TipCalculator.MainPage">
+    <StackLayout Margin="10,35,10,10">
+         <Label x:Name="tipAmountLabel"
+               Text=""
+               HeightRequest="20" />
+        <Label x:Name="billAmountLabel"
+               Text=""
+               HeightRequest="20" />
+        <Label Text="Bill Amount"
+               HorizontalOptions="Center"
+               FontAttributes="Bold" />
+        <Editor x:Name="billAmountEditor"
+                Placeholder="75.00"
+                HeightRequest="50" />
+        <Label Text="Tip Percentage"
+               HorizontalOptions="Center"
+               FontAttributes="Bold" />
+        <Editor x:Name="tipPrecentageEditor"
+                Placeholder="20"
+                HeightRequest="50" />
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Button Text="Calculate"
+                    Clicked="OnCalculateButtonClicked" />
+        </Grid>
+    </StackLayout>
+</ContentPage>
