@@ -1,0 +1,12 @@
+/Users/mjmersenski/Projects/MorseCode/MorseCode/bin/Debug/netstandard2.0/MorseCode.deps.json
+/Users/mjmersenski/Projects/MorseCode/MorseCode/bin/Debug/netstandard2.0/MorseCode.dll
+/Users/mjmersenski/Projects/MorseCode/MorseCode/bin/Debug/netstandard2.0/MorseCode.pdb
+/Users/mjmersenski/Projects/MorseCode/MorseCode/obj/Debug/netstandard2.0/MorseCode.csprojAssemblyReference.cache
+/Users/mjmersenski/Projects/MorseCode/MorseCode/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mjmersenski/Projects/MorseCode/MorseCode/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/mjmersenski/Projects/MorseCode/MorseCode/obj/Debug/netstandard2.0/MorseCode.csproj.CoreCompileInputs.cache
+/Users/mjmersenski/Projects/MorseCode/MorseCode/obj/Debug/netstandard2.0/MorseCode.AssemblyInfoInputs.cache
+/Users/mjmersenski/Projects/MorseCode/MorseCode/obj/Debug/netstandard2.0/MorseCode.AssemblyInfo.cs
+/Users/mjmersenski/Projects/MorseCode/MorseCode/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/mjmersenski/Projects/MorseCode/MorseCode/obj/Debug/netstandard2.0/MorseCode.dll
+/Users/mjmersenski/Projects/MorseCode/MorseCode/obj/Debug/netstandard2.0/MorseCode.pdb
