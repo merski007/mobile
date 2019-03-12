@@ -724,8 +724,9 @@
       "projectName": "MorseCode.iOS",
       "projectPath": "/Users/mjmersenski/Projects/MorseCode/MorseCode.iOS/MorseCode.iOS.csproj",
       "packagesPath": "/Users/mjmersenski/.nuget/packages/",
-      "outputPath": "/Users/mjmersenski/Projects/MorseCode/MorseCode.iOS/obj",
+      "outputPath": "/Users/mjmersenski/Projects/MorseCode/MorseCode.iOS/obj/",
       "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
       "configFilePaths": [
         "/Users/mjmersenski/.config/NuGet/NuGet.Config"
       ],

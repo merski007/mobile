@@ -786,8 +786,9 @@
       "projectName": "MorseCode.Android",
       "projectPath": "/Users/mjmersenski/Projects/MorseCode/MorseCode.Android/MorseCode.Android.csproj",
       "packagesPath": "/Users/mjmersenski/.nuget/packages/",
-      "outputPath": "/Users/mjmersenski/Projects/MorseCode/MorseCode.Android/obj",
+      "outputPath": "/Users/mjmersenski/Projects/MorseCode/MorseCode.Android/obj/",
       "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
       "configFilePaths": [
         "/Users/mjmersenski/.config/NuGet/NuGet.Config"
       ],

@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:MorseCode" x:Class="MorseCode.MainPage">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="ButtonColor">Navy</Color>
+            <Color x:Key="TextColor">White</Color>
+            <LayoutOptions x:Key="horzOptions"
+            Alignment="Center" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
     <StackLayout Margin="10,35,10,10">
         <Label Text="Input"
                HorizontalOptions="Center"
@@ -13,13 +21,22 @@
                 <ColumnDefinition Width="*" />
             </Grid.ColumnDefinitions>
             <Button Text="."
-                    Clicked="OnDotButtonClicked" />
+                    Clicked="OnDotButtonClicked"
+                    HorizontalOptions="{StaticResource horzOptions}"
+                    TextColor="{StaticResource TextColor}" 
+                    BackgroundColor="{StaticResource ButtonColor}"/>
             <Button Grid.Column="1" 
                 Text="-"
-                    Clicked="OnDashButtonClicked" />
+                    Clicked="OnDashButtonClicked"
+                    HorizontalOptions="{StaticResource horzOptions}"
+                    TextColor="{StaticResource TextColor}" 
+                    BackgroundColor="{StaticResource ButtonColor}"/>
             <Button Grid.Column="2" 
                 Text="SPACE"
-                    Clicked="OnSpaceButtonClicked" />
+                    Clicked="OnSpaceButtonClicked"
+                    HorizontalOptions="{StaticResource horzOptions}"
+                    TextColor="{StaticResource TextColor}" 
+                    BackgroundColor="{x:Static local:AppConstants.BackgroundColor}"/>
         </Grid>
         <Label Text="Output"
                HorizontalOptions="Center"

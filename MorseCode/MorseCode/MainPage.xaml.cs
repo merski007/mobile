@@ -7,6 +7,12 @@ using Xamarin.Forms;
 
 namespace MorseCode
 {
+    public static class AppConstants
+    {
+        // static color
+        public static readonly Color BackgroundColor = Color.Aqua;
+    }
+
     public partial class MainPage : ContentPage
     {
         //Outside constructor

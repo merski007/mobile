@@ -1,0 +1,13 @@
+/Users/mjmersenski/Projects/Notes/Notes/bin/Debug/netstandard2.0/Notes.deps.json
+/Users/mjmersenski/Projects/Notes/Notes/bin/Debug/netstandard2.0/Notes.dll
+/Users/mjmersenski/Projects/Notes/Notes/bin/Debug/netstandard2.0/Notes.pdb
+/Users/mjmersenski/Projects/Notes/Notes/obj/Debug/netstandard2.0/Notes.csprojAssemblyReference.cache
+/Users/mjmersenski/Projects/Notes/Notes/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mjmersenski/Projects/Notes/Notes/obj/Debug/netstandard2.0/Notes.csproj.CoreCompileInputs.cache
+/Users/mjmersenski/Projects/Notes/Notes/obj/Debug/netstandard2.0/Notes.AssemblyInfoInputs.cache
+/Users/mjmersenski/Projects/Notes/Notes/obj/Debug/netstandard2.0/Notes.AssemblyInfo.cs
+/Users/mjmersenski/Projects/Notes/Notes/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/mjmersenski/Projects/Notes/Notes/obj/Debug/netstandard2.0/Notes.dll
+/Users/mjmersenski/Projects/Notes/Notes/obj/Debug/netstandard2.0/Notes.pdb
+/Users/mjmersenski/Projects/Notes/Notes/obj/Debug/netstandard2.0/NotesEntryPage.xaml.g.cs
+/Users/mjmersenski/Projects/Notes/Notes/obj/Debug/netstandard2.0/NotesPage.xaml.g.cs

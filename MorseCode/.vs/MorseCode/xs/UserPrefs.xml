@@ -1,9 +1,22 @@
 ﻿<Properties StartupConfiguration="{D0CF783C-634A-4439-BF3A-A6016C9B99A9}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="MorseCode/MainPage.xaml.cs">
     <Files>
-      <File FileName="MorseCode/MainPage.xaml.cs" Line="61" Column="39" />
-      <File FileName="MorseCode/MainPage.xaml" Line="27" Column="30" />
+      <File FileName="MorseCode/MainPage.xaml.cs" Line="12" Column="24" />
+      <File FileName="MorseCode/MainPage.xaml" Line="40" Column="16" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MorseCode" expanded="True">
+            <Node name="MorseCode" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.MorseCode.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />

@@ -354,7 +354,7 @@
       "projectName": "MorseCode",
       "projectPath": "/Users/mjmersenski/Projects/MorseCode/MorseCode/MorseCode.csproj",
       "packagesPath": "/Users/mjmersenski/.nuget/packages/",
-      "outputPath": "/Users/mjmersenski/Projects/MorseCode/MorseCode/obj",
+      "outputPath": "/Users/mjmersenski/Projects/MorseCode/MorseCode/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
