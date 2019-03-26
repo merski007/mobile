@@ -1,29 +1,35 @@
 ﻿<Properties StartupConfiguration="{65EB8706-6AA1-472D-85E1-0732159A5D65}|Default">
-  <MonoDevelop.Ide.ItemProperties.DcPersonalityQuiz FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DcPersonalityQuiz/MainPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DcPersonalityQuiz/QuestionsPage.xaml">
     <Files>
-      <File FileName="DcPersonalityQuiz/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="DcPersonalityQuiz/MainPage.xaml" Line="7" Column="15" />
+      <File FileName="DcPersonalityQuiz/QuestionsPage.xaml" Line="33" Column="36" />
+      <File FileName="DcPersonalityQuiz/QuestionsPage.xaml.cs" Line="38" Column="36" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DcPersonalityQuiz" expanded="True">
             <Node name="DcPersonalityQuiz" expanded="True">
-              <Node name="MainPage.xaml" selected="True" />
+              <Node name="Images" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="QuestionsPage.xaml" expanded="True" selected="True" />
             </Node>
-            <Node name="DcPersonalityQuiz.Android" expanded="True" />
+            <Node name="DcPersonalityQuiz.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.DcPersonalityQuiz.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.DcPersonalityQuiz.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B4046482-09F4-4AFD-A66A-DB96E2145C77" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.DcPersonalityQuiz.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.DcPersonalityQuiz.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
 </Properties>

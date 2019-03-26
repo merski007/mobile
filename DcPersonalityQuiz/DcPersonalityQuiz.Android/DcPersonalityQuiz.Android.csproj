@@ -82,6 +82,15 @@
     <AndroidResource Include="Resources\mipmap-xxhdpi\launcher_foreground.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\icon.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
+    <AndroidResource Include="Resources\drawable\superman.png" />
+    <AndroidResource Include="Resources\drawable\batman.png" />
+    <AndroidResource Include="Resources\drawable\flash.png" />
+    <AndroidResource Include="Resources\drawable\wonderwoman.png" />
+    <AndroidResource Include="Resources\drawable\five.jpg" />
+    <AndroidResource Include="Resources\drawable\four.jpg" />
+    <AndroidResource Include="Resources\drawable\one.jpg" />
+    <AndroidResource Include="Resources\drawable\three.jpg" />
+    <AndroidResource Include="Resources\drawable\two.jpg" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\drawable\" />

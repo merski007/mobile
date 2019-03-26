@@ -782,12 +782,13 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mjmersenski/Projects/Notes/Notes.Android/Notes.Android.csproj",
+      "projectUniqueName": "/Users/mjmersenski/Desktop/Mobile/mobile/Notes/Notes.Android/Notes.Android.csproj",
       "projectName": "Notes.Android",
-      "projectPath": "/Users/mjmersenski/Projects/Notes/Notes.Android/Notes.Android.csproj",
+      "projectPath": "/Users/mjmersenski/Desktop/Mobile/mobile/Notes/Notes.Android/Notes.Android.csproj",
       "packagesPath": "/Users/mjmersenski/.nuget/packages/",
-      "outputPath": "/Users/mjmersenski/Projects/Notes/Notes.Android/obj",
+      "outputPath": "/Users/mjmersenski/Desktop/Mobile/mobile/Notes/Notes.Android/obj/",
       "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
       "configFilePaths": [
         "/Users/mjmersenski/.config/NuGet/NuGet.Config"
       ],
@@ -800,8 +801,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "/Users/mjmersenski/Projects/Notes/Notes/Notes.csproj": {
-              "projectPath": "/Users/mjmersenski/Projects/Notes/Notes/Notes.csproj"
+            "/Users/mjmersenski/Desktop/Mobile/mobile/Notes/Notes/Notes.csproj": {
+              "projectPath": "/Users/mjmersenski/Desktop/Mobile/mobile/Notes/Notes/Notes.csproj"
             }
           }
         }

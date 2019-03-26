@@ -1,15 +1,24 @@
 ﻿<Properties StartupConfiguration="{E646074A-66E3-45D3-A86D-7898A792639F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Notes/NotesEntryPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Notes/NotesPage.xaml.cs">
     <Files>
-      <File FileName="Notes/MainPage.xaml.cs" Line="35" Column="2" />
-      <File FileName="Notes/Models/Note.cs" Line="11" Column="2" />
-      <File FileName="Notes/NotesEntryPage.xaml" Line="22" Column="15" />
-      <File FileName="Notes/NotesEntryPage.xaml.cs" Line="46" Column="2" />
-      <File FileName="Notes/NotesPage.xaml" Line="20" Column="15" />
       <File FileName="Notes/NotesPage.xaml.cs" Line="58" Column="2" />
-      <File FileName="Notes/App.xaml" Line="5" Column="15" />
-      <File FileName="Notes/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="Notes/NotesPage.xaml" Line="20" Column="15" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Notes" expanded="True">
+            <Node name="Notes" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="NotesEntryPage.xaml" expanded="True" />
+              <Node name="NotesPage.xaml" expanded="True">
+                <Node name="NotesPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Notes.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

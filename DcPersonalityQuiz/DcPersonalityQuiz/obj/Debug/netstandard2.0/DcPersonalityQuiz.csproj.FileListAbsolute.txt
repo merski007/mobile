@@ -1,0 +1,14 @@
+/Users/mjmersenski/Desktop/Mobile/mobile/DcPersonalityQuiz/DcPersonalityQuiz/bin/Debug/netstandard2.0/DcPersonalityQuiz.deps.json
+/Users/mjmersenski/Desktop/Mobile/mobile/DcPersonalityQuiz/DcPersonalityQuiz/bin/Debug/netstandard2.0/DcPersonalityQuiz.dll
+/Users/mjmersenski/Desktop/Mobile/mobile/DcPersonalityQuiz/DcPersonalityQuiz/bin/Debug/netstandard2.0/DcPersonalityQuiz.pdb
+/Users/mjmersenski/Desktop/Mobile/mobile/DcPersonalityQuiz/DcPersonalityQuiz/obj/Debug/netstandard2.0/DcPersonalityQuiz.csprojAssemblyReference.cache
+/Users/mjmersenski/Desktop/Mobile/mobile/DcPersonalityQuiz/DcPersonalityQuiz/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/DcPersonalityQuiz/DcPersonalityQuiz/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/DcPersonalityQuiz/DcPersonalityQuiz/obj/Debug/netstandard2.0/MyPage.xaml.g.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/DcPersonalityQuiz/DcPersonalityQuiz/obj/Debug/netstandard2.0/QuestionsPage.xaml.g.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/DcPersonalityQuiz/DcPersonalityQuiz/obj/Debug/netstandard2.0/DcPersonalityQuiz.csproj.CoreCompileInputs.cache
+/Users/mjmersenski/Desktop/Mobile/mobile/DcPersonalityQuiz/DcPersonalityQuiz/obj/Debug/netstandard2.0/DcPersonalityQuiz.AssemblyInfoInputs.cache
+/Users/mjmersenski/Desktop/Mobile/mobile/DcPersonalityQuiz/DcPersonalityQuiz/obj/Debug/netstandard2.0/DcPersonalityQuiz.AssemblyInfo.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/DcPersonalityQuiz/DcPersonalityQuiz/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/mjmersenski/Desktop/Mobile/mobile/DcPersonalityQuiz/DcPersonalityQuiz/obj/Debug/netstandard2.0/DcPersonalityQuiz.dll
+/Users/mjmersenski/Desktop/Mobile/mobile/DcPersonalityQuiz/DcPersonalityQuiz/obj/Debug/netstandard2.0/DcPersonalityQuiz.pdb

@@ -1,7 +1,30 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:DcPersonalityQuiz" x:Class="DcPersonalityQuiz.MainPage">
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:DcPersonalityQuiz" 
+             x:Class="DcPersonalityQuiz.MainPage"
+             Title="Quiz">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="ButtonColor">Navy</Color>
+            <Color x:Key="TextColor">White</Color>
+            <LayoutOptions x:Key="horzOptions" Alignment="Center" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
     <StackLayout>
         <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+        <Label FontSize="15" Text="DC Superhero Personality Quiz" HorizontalOptions="Center" VerticalOptions="Center" />
+        <Label FontSize="10" Text="Which DC Superhero Are You?" HorizontalOptions="Center" VerticalOptions="Center" />
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Button
+                Text="Start Quiz"
+                Clicked="OnStartButtonClicked"
+                HorizontalOptions="{StaticResource horzOptions}"
+                TextColor="{StaticResource TextColor}" 
+                BackgroundColor="{x:Static local:AppConstants.BackgroundColor}"/>
+        </Grid>
     </StackLayout>
 </ContentPage>

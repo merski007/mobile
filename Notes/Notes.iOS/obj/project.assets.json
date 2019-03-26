@@ -720,12 +720,13 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mjmersenski/Projects/Notes/Notes.iOS/Notes.iOS.csproj",
+      "projectUniqueName": "/Users/mjmersenski/Desktop/Mobile/mobile/Notes/Notes.iOS/Notes.iOS.csproj",
       "projectName": "Notes.iOS",
-      "projectPath": "/Users/mjmersenski/Projects/Notes/Notes.iOS/Notes.iOS.csproj",
+      "projectPath": "/Users/mjmersenski/Desktop/Mobile/mobile/Notes/Notes.iOS/Notes.iOS.csproj",
       "packagesPath": "/Users/mjmersenski/.nuget/packages/",
-      "outputPath": "/Users/mjmersenski/Projects/Notes/Notes.iOS/obj",
+      "outputPath": "/Users/mjmersenski/Desktop/Mobile/mobile/Notes/Notes.iOS/obj/",
       "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
       "configFilePaths": [
         "/Users/mjmersenski/.config/NuGet/NuGet.Config"
       ],
@@ -738,8 +739,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/mjmersenski/Projects/Notes/Notes/Notes.csproj": {
-              "projectPath": "/Users/mjmersenski/Projects/Notes/Notes/Notes.csproj"
+            "/Users/mjmersenski/Desktop/Mobile/mobile/Notes/Notes/Notes.csproj": {
+              "projectPath": "/Users/mjmersenski/Desktop/Mobile/mobile/Notes/Notes/Notes.csproj"
             }
           }
         }

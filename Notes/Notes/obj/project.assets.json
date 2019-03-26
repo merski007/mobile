@@ -350,11 +350,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mjmersenski/Projects/Notes/Notes/Notes.csproj",
+      "projectUniqueName": "/Users/mjmersenski/Desktop/Mobile/mobile/Notes/Notes/Notes.csproj",
       "projectName": "Notes",
-      "projectPath": "/Users/mjmersenski/Projects/Notes/Notes/Notes.csproj",
+      "projectPath": "/Users/mjmersenski/Desktop/Mobile/mobile/Notes/Notes/Notes.csproj",
       "packagesPath": "/Users/mjmersenski/.nuget/packages/",
-      "outputPath": "/Users/mjmersenski/Projects/Notes/Notes/obj",
+      "outputPath": "/Users/mjmersenski/Desktop/Mobile/mobile/Notes/Notes/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
