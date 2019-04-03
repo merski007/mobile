@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{0FF29BEF-3BDD-406A-A792-538742609B75}|Default">
+  <MonoDevelop.Ide.ItemProperties.FormNavigation.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FormNavigation/MainPage.xaml">
+    <Files>
+      <File FileName="FormNavigation/MainPage.xaml.cs" Line="21" Column="53" />
+      <File FileName="FormNavigation/MainPage.xaml" Line="8" Column="34" />
+      <File FileName="FormNavigation/Page2.xaml.cs" Line="13" Column="35" />
+      <File FileName="FormNavigation/Page2.xaml" Line="8" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FormNavigation" expanded="True" selected="True">
+            <Node name="FormNavigation" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="Page2.xaml" expanded="True" />
+              <Node name="Page3.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FormNavigation.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

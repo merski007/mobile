@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="FlashCards.QuestionsPage">
+<ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="ButtonColor">Navy</Color>
+            <Color x:Key="TextColor">White</Color>
+            <LayoutOptions x:Key="horzOptions"
+            Alignment="Center" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <StackLayout>
+        <Image 
+               WidthRequest="80"
+               x:Name="image"
+               Source="" />
+        <Label Text=""
+               x:Name="question"
+               HorizontalTextAlignment="Center"
+               HeightRequest="40" />
+        <Label Text=""
+               x:Name="answer"
+               HorizontalTextAlignment="Center"
+               HeightRequest="40" />
+        <Label Text=""
+               x:Name="correctAnswerCount"
+               HorizontalTextAlignment="Center"
+               HeightRequest="40" />
+        <Label Text=""
+               x:Name="wrongAnswerCount"
+               HorizontalTextAlignment="Center"
+               HeightRequest="40" />
+        <BoxView 
+                x:Name="swipeBox"
+                Color="CornflowerBlue"
+                CornerRadius="10"
+                WidthRequest="160"
+                HeightRequest="160"
+                VerticalOptions="Center"
+                HorizontalOptions="Center">
+                <BoxView.GestureRecognizers>
+                    <SwipeGestureRecognizer Direction="Left,Right" Swiped="OnSwiped"/>
+                </BoxView.GestureRecognizers>
+            </BoxView>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+              </Grid.RowDefinitions>
+              <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+        <Button Grid.Row="0" Grid.Column="0"
+                    Text="Correct"
+                    x:Name="correct"
+                    Clicked="OnButtonCorrectClicked"
+                    HorizontalOptions="{StaticResource horzOptions}"
+                    TextColor="{StaticResource TextColor}" 
+                    BackgroundColor="green"/>
+        <Button Grid.Row="0" Grid.Column="1"
+                    Text="Wrong"
+                    x:Name="wrong"
+                    Clicked="OnButtonWrongClicked"
+                    HorizontalOptions="{StaticResource horzOptions}"
+                    TextColor="{StaticResource TextColor}" 
+                    BackgroundColor="red"/>
+        <Button Grid.Row="0" Grid.Column="0"
+                    Text="Continue"
+                    x:Name="continueGame"
+                    Clicked="OnButtonContinueGameClicked"
+                    HorizontalOptions="{StaticResource horzOptions}"
+                    TextColor="{StaticResource TextColor}" 
+                    BackgroundColor="green"/>
+        <Button Grid.Row="0" Grid.Column="1"
+                    Text="Start Game Over"
+                    x:Name="startGameOver"
+                    Clicked="OnButtonStartGameOverClicked"
+                    HorizontalOptions="{StaticResource horzOptions}"
+                    TextColor="{StaticResource TextColor}" 
+                    BackgroundColor="red"/>
+        </Grid>
+    </StackLayout>
+</ContentPage>

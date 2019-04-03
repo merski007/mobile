@@ -1,0 +1,16 @@
+/Users/mjmersenski/Desktop/Mobile/mobile/TabNavigation/TabNavigation/obj/Debug/netstandard2.0/TabNavigation.csprojAssemblyReference.cache
+/Users/mjmersenski/Desktop/Mobile/mobile/TabNavigation/TabNavigation/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/TabNavigation/TabNavigation/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/TabNavigation/TabNavigation/obj/Debug/netstandard2.0/TabNavigation.csproj.CoreCompileInputs.cache
+/Users/mjmersenski/Desktop/Mobile/mobile/TabNavigation/TabNavigation/obj/Debug/netstandard2.0/TabNavigation.AssemblyInfoInputs.cache
+/Users/mjmersenski/Desktop/Mobile/mobile/TabNavigation/TabNavigation/obj/Debug/netstandard2.0/TabNavigation.AssemblyInfo.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/TabNavigation/TabNavigation/obj/Debug/netstandard2.0/TabNavigation.dll
+/Users/mjmersenski/Desktop/Mobile/mobile/TabNavigation/TabNavigation/obj/Debug/netstandard2.0/TabNavigation.pdb
+/Users/mjmersenski/Desktop/Mobile/mobile/TabNavigation/TabNavigation/obj/Debug/netstandard2.0/TodayPage.xaml.g.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/TabNavigation/TabNavigation/obj/Debug/netstandard2.0/SchedulePage.xaml.g.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/TabNavigation/TabNavigation/obj/Debug/netstandard2.0/SettingsPage.xaml.g.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/TabNavigation/TabNavigation/bin/Debug/netstandard2.0/TabNavigation.deps.json
+/Users/mjmersenski/Desktop/Mobile/mobile/TabNavigation/TabNavigation/bin/Debug/netstandard2.0/TabNavigation.dll
+/Users/mjmersenski/Desktop/Mobile/mobile/TabNavigation/TabNavigation/bin/Debug/netstandard2.0/TabNavigation.pdb
+/Users/mjmersenski/Desktop/Mobile/mobile/TabNavigation/TabNavigation/obj/Debug/netstandard2.0/UpcomingAppointmentsPage.xaml.g.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/TabNavigation/TabNavigation/obj/Debug/netstandard2.0/XamlC.stamp

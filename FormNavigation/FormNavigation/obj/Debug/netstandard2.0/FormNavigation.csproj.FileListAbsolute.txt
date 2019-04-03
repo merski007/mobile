@@ -1,0 +1,14 @@
+/Users/mjmersenski/Desktop/Mobile/mobile/FormNavigation/FormNavigation/obj/Debug/netstandard2.0/FormNavigation.csprojAssemblyReference.cache
+/Users/mjmersenski/Desktop/Mobile/mobile/FormNavigation/FormNavigation/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/FormNavigation/FormNavigation/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/FormNavigation/FormNavigation/obj/Debug/netstandard2.0/Page2.xaml.g.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/FormNavigation/FormNavigation/obj/Debug/netstandard2.0/FormNavigation.csproj.CoreCompileInputs.cache
+/Users/mjmersenski/Desktop/Mobile/mobile/FormNavigation/FormNavigation/obj/Debug/netstandard2.0/FormNavigation.AssemblyInfoInputs.cache
+/Users/mjmersenski/Desktop/Mobile/mobile/FormNavigation/FormNavigation/obj/Debug/netstandard2.0/FormNavigation.AssemblyInfo.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/FormNavigation/FormNavigation/obj/Debug/netstandard2.0/FormNavigation.dll
+/Users/mjmersenski/Desktop/Mobile/mobile/FormNavigation/FormNavigation/obj/Debug/netstandard2.0/FormNavigation.pdb
+/Users/mjmersenski/Desktop/Mobile/mobile/FormNavigation/FormNavigation/bin/Debug/netstandard2.0/FormNavigation.deps.json
+/Users/mjmersenski/Desktop/Mobile/mobile/FormNavigation/FormNavigation/bin/Debug/netstandard2.0/FormNavigation.dll
+/Users/mjmersenski/Desktop/Mobile/mobile/FormNavigation/FormNavigation/bin/Debug/netstandard2.0/FormNavigation.pdb
+/Users/mjmersenski/Desktop/Mobile/mobile/FormNavigation/FormNavigation/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/mjmersenski/Desktop/Mobile/mobile/FormNavigation/FormNavigation/obj/Debug/netstandard2.0/Page3.xaml.g.cs
