@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{2ED619A8-00E3-47A1-95D3-D0BD762EE1CB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListView/App.xaml.cs">
+    <Files>
+      <File FileName="ListView/MainPage.xaml.cs" Line="82" Column="15" />
+      <File FileName="ListView/MainPage.xaml" Line="7" Column="26" />
+      <File FileName="ListView/FlashCard.cs" Line="17" Column="6" />
+      <File FileName="ListView/App.xaml.cs" Line="5" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListViewProject" expanded="True">
+            <Node name="ListViewProject" expanded="True">
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ListViewProject.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.ListViewProject.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

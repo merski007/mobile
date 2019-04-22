@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{E67CBB4F-CAC5-498E-84C7-5DB5EDD28E8D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListViewProject/App.xaml.cs">
+    <Files>
+      <File FileName="ListViewProject/PickerItemsPage.xaml" Line="8" Column="68" />
+      <File FileName="ListViewProject/PickerItemsPage.xaml.cs" Line="68" Column="10" />
+      <File FileName="ListViewProject/PickerItemsSourcePage.xaml" Line="26" Column="33" />
+      <File FileName="ListViewProject/PickerItemsSourcePage.xaml.cs" Line="67" Column="67" />
+      <File FileName="ListViewProject/App.xaml" Line="5" Column="15" />
+      <File FileName="ListViewProject/App.xaml.cs" Line="15" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListViewProject" expanded="True">
+            <Node name="ListViewProject" expanded="True">
+              <Node name="App.xaml.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ListViewProject.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:FlashCards" x:Class="FlashCards.MainPage">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="ButtonColor">Navy</Color>
+            <Color x:Key="TextColor">White</Color>
+            <LayoutOptions x:Key="horzOptions" Alignment="Center" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <StackLayout>
+        <Label FontSize="15" Text="Flash Cards" HorizontalOptions="Center" VerticalOptions="Center" />
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Button
+                Text="Start Quiz"
+                Clicked="OnStartButtonClicked"
+                HorizontalOptions="{StaticResource horzOptions}"
+                TextColor="{StaticResource TextColor}" 
+                BackgroundColor="{StaticResource ButtonColor}"/>
+            <!--<BoxView 
+                Color="CornflowerBlue"
+                CornerRadius="10"
+                WidthRequest="160"
+                HeightRequest="160"
+                VerticalOptions="Center"
+                HorizontalOptions="Center">
+                <BoxView.GestureRecognizers>
+                    <SwipeGestureRecognizer Direction="Left,Right" Swiped="OnSwiped"/>
+                </BoxView.GestureRecognizers>
+            </BoxView>-->
+        </Grid>
+    </StackLayout>
+</ContentPage>

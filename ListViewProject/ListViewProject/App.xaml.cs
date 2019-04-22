@@ -12,6 +12,7 @@ namespace ListViewProject
             InitializeComponent();
 
             MainPage = new MainPage();
+            //MainPage = new PickerDemoPage();
         }
 
         protected override void OnStart()

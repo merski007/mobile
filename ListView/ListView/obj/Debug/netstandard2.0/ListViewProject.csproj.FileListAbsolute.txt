@@ -1,0 +1,4 @@
+/Users/mjmersenski/Desktop/Mobile/mobile/ListView/ListView/obj/Debug/netstandard2.0/ListViewProject.csprojAssemblyReference.cache
+/Users/mjmersenski/Desktop/Mobile/mobile/ListView/ListView/obj/Debug/netstandard2.0/ListViewProject.csproj.CoreCompileInputs.cache
+/Users/mjmersenski/Desktop/Mobile/mobile/ListView/ListView/obj/Debug/netstandard2.0/ListViewProject.AssemblyInfoInputs.cache
+/Users/mjmersenski/Desktop/Mobile/mobile/ListView/ListView/obj/Debug/netstandard2.0/ListViewProject.AssemblyInfo.cs

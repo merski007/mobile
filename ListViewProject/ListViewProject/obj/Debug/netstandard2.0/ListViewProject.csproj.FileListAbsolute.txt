@@ -1,0 +1,14 @@
+/Users/mjmersenski/Desktop/Mobile/mobile/ListViewProject/ListViewProject/bin/Debug/netstandard2.0/ListViewProject.deps.json
+/Users/mjmersenski/Desktop/Mobile/mobile/ListViewProject/ListViewProject/bin/Debug/netstandard2.0/ListViewProject.dll
+/Users/mjmersenski/Desktop/Mobile/mobile/ListViewProject/ListViewProject/bin/Debug/netstandard2.0/ListViewProject.pdb
+/Users/mjmersenski/Desktop/Mobile/mobile/ListViewProject/ListViewProject/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/ListViewProject/ListViewProject/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/ListViewProject/ListViewProject/obj/Debug/netstandard2.0/PickerDemoPage.xaml.g.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/ListViewProject/ListViewProject/obj/Debug/netstandard2.0/PickerItemsPage.xaml.g.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/ListViewProject/ListViewProject/obj/Debug/netstandard2.0/PickerItemsSourcePage.xaml.g.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/ListViewProject/ListViewProject/obj/Debug/netstandard2.0/ListViewProject.csproj.CoreCompileInputs.cache
+/Users/mjmersenski/Desktop/Mobile/mobile/ListViewProject/ListViewProject/obj/Debug/netstandard2.0/ListViewProject.AssemblyInfoInputs.cache
+/Users/mjmersenski/Desktop/Mobile/mobile/ListViewProject/ListViewProject/obj/Debug/netstandard2.0/ListViewProject.AssemblyInfo.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/ListViewProject/ListViewProject/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/mjmersenski/Desktop/Mobile/mobile/ListViewProject/ListViewProject/obj/Debug/netstandard2.0/ListViewProject.dll
+/Users/mjmersenski/Desktop/Mobile/mobile/ListViewProject/ListViewProject/obj/Debug/netstandard2.0/ListViewProject.pdb

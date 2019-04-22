@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{1662DEB8-8BD0-411B-94CF-E937A3721E38}|Default">
+  <MonoDevelop.Ide.ItemProperties.FlashCards.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FlashCards/QuestionsPage.xaml.cs">
+    <Files>
+      <File FileName="FlashCards/QuestionsPage.xaml.cs" Line="247" Column="9" />
+      <File FileName="FlashCards/Data/FlashCardDatabase.cs" Line="33" Column="20" />
+      <File FileName="FlashCards/QuestionsPage.xaml" Line="84" Column="1" />
+      <File FileName="FlashCards/App.xaml.cs" Line="27" Column="152" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FlashCards" expanded="True">
+            <Node name="FlashCards" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="QuestionsPage.xaml" expanded="True">
+                <Node name="QuestionsPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FlashCards.iOS FirstBuild="True" />
+</Properties>

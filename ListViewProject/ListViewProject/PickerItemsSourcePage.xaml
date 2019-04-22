@@ -1,5 +1,31 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="ListViewProject.PickerItemsSourcePage">
-    <ContentPage.Content>
-    </ContentPage.Content>
+<StackLayout Margin="20,35,20,20">
+        <Label Text="Picker - Data in ItemsSource" 
+               FontAttributes="Bold" 
+               HorizontalOptions="Center" />
+        <Picker x:Name="picker" 
+                Title="Select an element"
+                ItemDisplayBinding="{Binding Answer}"
+                SelectedIndexChanged="OnPickerSelectedIndexChanged">
+            <!--<Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>Baboon</x:String>
+                    <x:String>Capuchin Monkey</x:String>
+                    <x:String>Blue Monkey</x:String>
+                    <x:String>Squirrel Monkey</x:String>
+                    <x:String>Golden Lion Tamarin</x:String>
+                    <x:String>Howler Monkey</x:String>
+                    <x:String>Japanese Macaque</x:String>
+                </x:Array>
+            </Picker.ItemsSource>-->
+        </Picker>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="You chose:" />
+            <Image Source="{Binding ImageName}"
+                   x:Name="image"
+                   WidthRequest="30"
+                   HeightRequest="30"/>
+        </StackLayout>
+    </StackLayout>
 </ContentPage>
