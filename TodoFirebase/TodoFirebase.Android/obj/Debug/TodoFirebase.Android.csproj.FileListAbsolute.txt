@@ -39,6 +39,10 @@
 /Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/TodoFirebase.Android/obj/Debug/res/mipmap-xxhdpi/launcher_foreground.png
 /Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/TodoFirebase.Android/obj/Debug/res/mipmap-xxxhdpi/icon.png
 /Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/TodoFirebase.Android/obj/Debug/res/mipmap-xxxhdpi/launcher_foreground.png
+/Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/TodoFirebase.Android/obj/Debug/res/drawable/check.png
+/Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/TodoFirebase.Android/obj/Debug/res/drawable/check2x.png
+/Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/TodoFirebase.Android/obj/Debug/res/drawable/icon.png
+/Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/TodoFirebase.Android/obj/Debug/res/drawable/plus.png
 /Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/TodoFirebase.Android/obj/Debug/R.cs.flag
 /Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/TodoFirebase.Android/obj/Debug/R.txt
 /Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/TodoFirebase.Android/obj/Debug/uploadflags.txt

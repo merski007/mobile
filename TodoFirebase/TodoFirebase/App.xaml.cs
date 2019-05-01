@@ -10,7 +10,7 @@ namespace TodoFirebase
         {
             InitializeComponent();
 
-            MainPage = new TodoItemPage();
+            MainPage = new TodoListPage();
         }
 
         protected override void OnStart()

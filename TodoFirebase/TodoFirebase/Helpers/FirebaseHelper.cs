@@ -13,6 +13,18 @@ namespace TodoFirebase
     {
         FirebaseClient firebase = new FirebaseClient("https://todoappmobile-d7ea3.firebaseio.com/");
 
+        public async Task<List<TodoItem>> GetAllTodos()
+        {
+            return (await firebase
+              .Child("TodoItem")
+              .OnceAsync<TodoItem>()).Select(item => new TodoItem
+              {
+                  Name = item.Object.Name,
+                  Priority = item.Object.Priority,
+                  Done = item.Object.Done
+              }).ToList();
+        }
+
         public async Task AddTodo(TodoItem todo)
         {
             await firebase
