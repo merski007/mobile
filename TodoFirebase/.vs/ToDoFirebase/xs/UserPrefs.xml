@@ -1,36 +1,26 @@
-﻿<Properties StartupConfiguration="{BB205653-673D-4CE1-9124-99D3220AE1CD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoFirebase/App.xaml.cs">
+﻿<Properties StartupConfiguration="{F657FC52-4168-4058-A3B7-6BAEB67A4FBD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TodoFirebase/MainPage.xaml">
     <Files>
-      <File FileName="ToDoFirebase/App.xaml.cs" Line="18" Column="1" />
-      <File FileName="ToDoFirebase/Views/MainPage.xaml" />
-      <File FileName="ToDoFirebase/Views/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="ToDoFirebase/Views/ToDoItemPage.xaml" />
+      <File FileName="TodoFirebase/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="TodoFirebase/MainPage.xaml" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ToDoFirebase" expanded="True">
-            <Node name="ToDoFirebase" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="PackageDependencies" expanded="True" />
-              </Node>
-              <Node name="Helpers" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="Views" expanded="True" />
-              <Node name="App.xaml" expanded="True">
-                <Node name="App.xaml.cs" selected="True" />
-              </Node>
-            </Node>
+          <Node name="TodoFirebase" expanded="True" selected="True">
+            <Node name="TodoFirebase" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TodoFirebase.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.ToDoFirebase.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.TodoFirebase FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TodoFirebase.iOS FirstBuild="True" />
 </Properties>
