@@ -1,0 +1,13 @@
+/Users/mjmersenski/Desktop/Mobile/mobile/ToDoFirebase/ToDoFirebase/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/ToDoFirebase/ToDoFirebase/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/ToDoFirebase/ToDoFirebase/obj/Debug/netstandard2.0/Views/ToDoItemPage.xaml.g.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/ToDoFirebase/ToDoFirebase/obj/Debug/netstandard2.0/Views/ToDoListPage.xaml.g.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/ToDoFirebase/ToDoFirebase/obj/Debug/netstandard2.0/ToDoFirebase.csproj.CoreCompileInputs.cache
+/Users/mjmersenski/Desktop/Mobile/mobile/ToDoFirebase/ToDoFirebase/obj/Debug/netstandard2.0/ToDoFirebase.AssemblyInfoInputs.cache
+/Users/mjmersenski/Desktop/Mobile/mobile/ToDoFirebase/ToDoFirebase/obj/Debug/netstandard2.0/ToDoFirebase.AssemblyInfo.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/ToDoFirebase/ToDoFirebase/obj/Debug/netstandard2.0/ToDoFirebase.dll
+/Users/mjmersenski/Desktop/Mobile/mobile/ToDoFirebase/ToDoFirebase/obj/Debug/netstandard2.0/ToDoFirebase.pdb
+/Users/mjmersenski/Desktop/Mobile/mobile/ToDoFirebase/ToDoFirebase/bin/Debug/netstandard2.0/ToDoFirebase.deps.json
+/Users/mjmersenski/Desktop/Mobile/mobile/ToDoFirebase/ToDoFirebase/bin/Debug/netstandard2.0/ToDoFirebase.dll
+/Users/mjmersenski/Desktop/Mobile/mobile/ToDoFirebase/ToDoFirebase/bin/Debug/netstandard2.0/ToDoFirebase.pdb
+/Users/mjmersenski/Desktop/Mobile/mobile/ToDoFirebase/ToDoFirebase/obj/Debug/netstandard2.0/XamlC.stamp

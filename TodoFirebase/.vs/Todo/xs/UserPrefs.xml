@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{B746C87C-7335-4830-AAE2-ACACE4D69DB5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Todo/Helpers/FirebaseHelper.cs">
+    <Files>
+      <File FileName="Todo/Views/TodoListPage.xaml" />
+      <File FileName="Todo/Views/TodoListPage.xaml.cs" Line="27" Column="60" />
+      <File FileName="Todo/Views/TodoItemPage.xaml.cs" Line="29" Column="15" />
+      <File FileName="Todo/Views/TodoItemPage.xaml" />
+      <File FileName="Todo/Helpers/FirebaseHelper.cs" Line="9" Column="12" />
+      <File FileName="Todo/App.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Todo" expanded="True">
+            <Node name="Targets" expanded="True" />
+            <Node name="Todo" expanded="True">
+              <Node name="Helpers" expanded="True" />
+              <Node name="Models" expanded="True" selected="True" />
+              <Node name="Views" expanded="True">
+                <Node name="TodoItemPage.xaml" expanded="True" />
+                <Node name="TodoListPage.xaml" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Targets.Todo.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Targets.Todo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B4046482-09F4-4AFD-A66A-DB96E2145C77" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/Todo/Views/TodoItemPage.xaml.cs" relfile="Todo/Views/TodoItemPage.xaml.cs" line="29" column="1" />
+      <Breakpoint file="/Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/Todo/Views/TodoItemPage.xaml.cs" relfile="Todo/Views/TodoItemPage.xaml.cs" line="24" column="1" />
+      <Breakpoint file="/Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/Todo/Views/TodoItemPage.xaml.cs" relfile="Todo/Views/TodoItemPage.xaml.cs" line="25" column="1" />
+      <Breakpoint file="/Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/Todo/Helpers/FirebaseHelper.cs" relfile="Todo/Helpers/FirebaseHelper.cs" line="34" column="1" />
+      <Breakpoint file="/Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/Todo/Helpers/FirebaseHelper.cs" relfile="Todo/Helpers/FirebaseHelper.cs" line="35" column="1" />
+      <Breakpoint file="/Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/Todo/Helpers/FirebaseHelper.cs" relfile="Todo/Helpers/FirebaseHelper.cs" line="40" column="1" />
+      <Breakpoint file="/Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/Todo/Helpers/FirebaseHelper.cs" relfile="Todo/Helpers/FirebaseHelper.cs" line="43" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

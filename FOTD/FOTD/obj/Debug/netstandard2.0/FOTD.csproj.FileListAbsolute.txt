@@ -1,0 +1,13 @@
+/Users/mjmersenski/Desktop/Mobile/mobile/FOTD/FOTD/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/FOTD/FOTD/obj/Debug/netstandard2.0/FlavorsView.xaml.g.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/FOTD/FOTD/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/FOTD/FOTD/obj/Debug/netstandard2.0/FOTD.csproj.CoreCompileInputs.cache
+/Users/mjmersenski/Desktop/Mobile/mobile/FOTD/FOTD/obj/Debug/netstandard2.0/FOTD.AssemblyInfoInputs.cache
+/Users/mjmersenski/Desktop/Mobile/mobile/FOTD/FOTD/obj/Debug/netstandard2.0/FOTD.AssemblyInfo.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/FOTD/FOTD/obj/Debug/netstandard2.0/FOTD.dll
+/Users/mjmersenski/Desktop/Mobile/mobile/FOTD/FOTD/obj/Debug/netstandard2.0/FOTD.pdb
+/Users/mjmersenski/Desktop/Mobile/mobile/FOTD/FOTD/bin/Debug/netstandard2.0/FOTD.deps.json
+/Users/mjmersenski/Desktop/Mobile/mobile/FOTD/FOTD/bin/Debug/netstandard2.0/FOTD.dll
+/Users/mjmersenski/Desktop/Mobile/mobile/FOTD/FOTD/bin/Debug/netstandard2.0/FOTD.pdb
+/Users/mjmersenski/Desktop/Mobile/mobile/FOTD/FOTD/obj/Debug/netstandard2.0/FOTD.csprojAssemblyReference.cache
+/Users/mjmersenski/Desktop/Mobile/mobile/FOTD/FOTD/obj/Debug/netstandard2.0/XamlC.stamp

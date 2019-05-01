@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{067F5F17-B2C6-4D07-A786-F3362050033D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FlashcardsFirebase/MainPage.xaml">
+    <Files>
+      <File FileName="FlashcardsFirebase/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="FlashcardsFirebase/MainPage.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FlashcardsFirebase" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FlashcardsFirebase.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FlashcardsFirebase FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FlashcardsFirebase.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+</Properties>

@@ -1,13 +1,9 @@
 ﻿<Properties StartupConfiguration="{B746C87C-7335-4830-AAE2-ACACE4D69DB5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Todo/Data/TodoItemDatabase.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Todo/Views/TodoListPage.xaml.cs">
     <Files>
-      <File FileName="Todo/App.cs" Line="1" Column="1" />
-      <File FileName="Todo/Views/TodoListPage.xaml.cs" Line="22" Column="31" />
-      <File FileName="Todo/Views/TodoListPage.xaml.cs" Line="20" Column="61" />
-      <File FileName="Todo/Views/TodoListPage.xaml" Line="17" Column="65" />
-      <File FileName="Todo/Views/TodoListPageCS.cs" Line="1" Column="1" />
-      <File FileName="Todo/Models/TodoItem.cs" Line="11" Column="28" />
-      <File FileName="Todo/Data/TodoItemDatabase.cs" Line="20" Column="76" />
+      <File FileName="Todo/App.cs" Line="23" Column="1" />
+      <File FileName="Todo/Views/TodoListPage.xaml" />
+      <File FileName="Todo/Views/TodoListPage.xaml.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,13 +11,13 @@
           <Node name="Todo" expanded="True">
             <Node name="Targets" expanded="True" />
             <Node name="Todo" expanded="True">
-              <Node name="Data" expanded="True">
-                <Node name="TodoItemDatabase.cs" selected="True" />
-              </Node>
+              <Node name="Data" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="TodoItemPage.xaml" expanded="True" />
-                <Node name="TodoListPage.xaml" expanded="True" />
+                <Node name="TodoListPage.xaml" expanded="True">
+                  <Node name="TodoListPage.xaml.cs" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>

@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{BB205653-673D-4CE1-9124-99D3220AE1CD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoFirebase/Views/ToDoItemPage.xaml">
+    <Files>
+      <File FileName="ToDoFirebase/Views/ToDoListPage.xaml.cs" Line="33" Column="1" />
+      <File FileName="ToDoFirebase/Views/ToDoListPage.xaml" />
+      <File FileName="ToDoFirebase/Views/ToDoItemPage.xaml.cs" Line="7" Column="1" />
+      <File FileName="ToDoFirebase/App.xaml.cs" Line="15" Column="58" />
+      <File FileName="ToDoFirebase/Views/MainPage.xaml" />
+      <File FileName="ToDoFirebase/Views/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="ToDoFirebase/Views/ToDoItemPage.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ToDoFirebase" expanded="True">
+            <Node name="ToDoFirebase" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Helpers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="ToDoItemPage.xaml" selected="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ToDoFirebase.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

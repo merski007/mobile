@@ -11,8 +11,7 @@
         "dependencies": {
           "NETStandard.Library": "2.0.3",
           "Xamarin.Forms": "3.6.0.220655",
-          "sqlite-net-pcl": "1.4.118",
-          "Xamarin.iOS": "0.0.0.0"
+          "sqlite-net-pcl": "1.4.118"
         },
         "runtime": {
           "Todo.dll": {}
@@ -78,14 +77,6 @@
             "fileVersion": "2.0.0.0"
           }
         }
-      },
-      "Xamarin.iOS/0.0.0.0": {
-        "runtime": {
-          "Xamarin.iOS.dll": {
-            "assemblyVersion": "0.0.0.0",
-            "fileVersion": "0.0.0.0"
-          }
-        }
       }
     }
   },
@@ -136,11 +127,6 @@
       "sha512": "sha512-ltCTV5Tez9zTbg9f6UunegHPWRzfVHKGHeLOmXeJvNFEPwXrHDwjCcRqMqNISLRjzWxT1MuC9wgKdMoxGdBLqQ==",
       "path": "xamarin.forms/3.6.0.220655",
       "hashPath": "xamarin.forms.3.6.0.220655.nupkg.sha512"
-    },
-    "Xamarin.iOS/0.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
     }
   }
 }

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="ToDoFirebase.Views.ToDoItemPage">
+    <StackLayout Margin="20" VerticalOptions="StartAndExpand">
+        <Label Text="Name" />
+        <Entry x:Name="Name"
+               Text="{Binding Name}" />
+        <!--<Label Text="Notes" />
+        <Entry x:Name="Notes"
+               Text="{Binding Notes}" />-->
+        <Label Text="Priority" />
+        <Entry x:Name="Priority"
+               Text="{Binding Priority}"
+               Keyboard="Numeric"/>
+        <Label Text="Done" />
+        <Switch x:Name="Done" 
+               IsToggled="{Binding Done}" />
+       <!-- <Button Text="Save" Clicked="OnSaveClicked" />
+        <Button Text="Delete" Clicked="OnDeleteClicked" />
+        <Button Text="Cancel" Clicked="OnCancelClicked" />-->
+    </StackLayout>
+</ContentPage>

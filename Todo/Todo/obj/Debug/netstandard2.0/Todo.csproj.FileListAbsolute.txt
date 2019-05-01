@@ -1,6 +1,7 @@
 /Users/mjmersenski/Desktop/Mobile/mobile/Todo/Todo/bin/Debug/netstandard2.0/Todo.deps.json
 /Users/mjmersenski/Desktop/Mobile/mobile/Todo/Todo/bin/Debug/netstandard2.0/Todo.dll
 /Users/mjmersenski/Desktop/Mobile/mobile/Todo/Todo/bin/Debug/netstandard2.0/Todo.pdb
+/Users/mjmersenski/Desktop/Mobile/mobile/Todo/Todo/obj/Debug/netstandard2.0/Todo.csprojAssemblyReference.cache
 /Users/mjmersenski/Desktop/Mobile/mobile/Todo/Todo/obj/Debug/netstandard2.0/Views/TodoItemPage.xaml.g.cs
 /Users/mjmersenski/Desktop/Mobile/mobile/Todo/Todo/obj/Debug/netstandard2.0/Views/TodoListPage.xaml.g.cs
 /Users/mjmersenski/Desktop/Mobile/mobile/Todo/Todo/obj/Debug/netstandard2.0/Todo.csproj.CoreCompileInputs.cache
@@ -9,7 +10,3 @@
 /Users/mjmersenski/Desktop/Mobile/mobile/Todo/Todo/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/mjmersenski/Desktop/Mobile/mobile/Todo/Todo/obj/Debug/netstandard2.0/Todo.dll
 /Users/mjmersenski/Desktop/Mobile/mobile/Todo/Todo/obj/Debug/netstandard2.0/Todo.pdb
-/Users/mjmersenski/Desktop/Mobile/mobile/Todo/Todo/obj/Debug/netstandard2.0/Todo.csprojAssemblyReference.cache
-/Users/mjmersenski/Desktop/Mobile/mobile/Todo/Todo/bin/Debug/netstandard2.0/Xamarin.iOS.dll
-/Users/mjmersenski/Desktop/Mobile/mobile/Todo/Todo/bin/Debug/netstandard2.0/Xamarin.iOS.pdb
-/Users/mjmersenski/Desktop/Mobile/mobile/Todo/Todo/obj/Debug/netstandard2.0/Todo.csproj.CopyComplete
