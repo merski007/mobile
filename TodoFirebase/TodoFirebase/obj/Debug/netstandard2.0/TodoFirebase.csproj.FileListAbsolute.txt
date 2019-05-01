@@ -1,0 +1,13 @@
+/Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/TodoFirebase/bin/Debug/netstandard2.0/TodoFirebase.deps.json
+/Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/TodoFirebase/bin/Debug/netstandard2.0/TodoFirebase.dll
+/Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/TodoFirebase/bin/Debug/netstandard2.0/TodoFirebase.pdb
+/Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/TodoFirebase/obj/Debug/netstandard2.0/TodoFirebase.csprojAssemblyReference.cache
+/Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/TodoFirebase/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/TodoFirebase/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/TodoFirebase/obj/Debug/netstandard2.0/TodoItemPage.xaml.g.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/TodoFirebase/obj/Debug/netstandard2.0/TodoFirebase.csproj.CoreCompileInputs.cache
+/Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/TodoFirebase/obj/Debug/netstandard2.0/TodoFirebase.AssemblyInfoInputs.cache
+/Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/TodoFirebase/obj/Debug/netstandard2.0/TodoFirebase.AssemblyInfo.cs
+/Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/TodoFirebase/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/TodoFirebase/obj/Debug/netstandard2.0/TodoFirebase.dll
+/Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/TodoFirebase/obj/Debug/netstandard2.0/TodoFirebase.pdb
