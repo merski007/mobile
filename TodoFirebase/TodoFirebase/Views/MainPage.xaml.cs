@@ -17,5 +17,10 @@ namespace TodoFirebase
         {
             InitializeComponent();
         }
+
+        async void OnStartButtonClicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new TodoListPage());
+        }
     }
 }

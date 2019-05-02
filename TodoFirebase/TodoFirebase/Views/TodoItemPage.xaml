@@ -10,8 +10,8 @@
                Keyboard="Numeric"/>
         <Label Text="Done" />
         <Switch x:Name="Done"
-                IsToggled="{Binding Done}" />
-        <Button Text="Save" Clicked="OnSaveClicked" />
+                IsToggled="{Binding Done}" /> 
+        <Button x:Name="Save" Text="Save" Clicked="OnSaveClicked" />
         <!--<Button Text="Delete" Clicked="OnDeleteClicked" />
         <Button Text="Cancel" Clicked="OnCancelClicked" />
         <Button Text="Speak" Clicked="OnSpeakClicked" />-->

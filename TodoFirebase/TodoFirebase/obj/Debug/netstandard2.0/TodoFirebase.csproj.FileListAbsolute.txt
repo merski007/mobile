@@ -11,3 +11,4 @@
 /Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/TodoFirebase/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/TodoFirebase/obj/Debug/netstandard2.0/TodoFirebase.dll
 /Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/TodoFirebase/obj/Debug/netstandard2.0/TodoFirebase.pdb
+/Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/TodoFirebase/obj/Debug/netstandard2.0/TodoFirebase.csprojAssemblyReference.cache

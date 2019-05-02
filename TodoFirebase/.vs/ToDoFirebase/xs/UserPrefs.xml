@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{F657FC52-4168-4058-A3B7-6BAEB67A4FBD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TodoFirebase/Views/TodoListPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TodoFirebase/Models/TodoItem.cs">
     <Files>
-      <File FileName="TodoFirebase/App.xaml.cs" Line="13" Column="36" />
-      <File FileName="TodoFirebase/Helpers/FirebaseHelper.cs" Line="19" Column="31" />
-      <File FileName="TodoFirebase/Models/TodoItem.cs" Line="17" Column="43" />
-      <File FileName="TodoFirebase/Views/TodoItemPage.xaml" />
-      <File FileName="TodoFirebase/Views/TodoItemPage.xaml.cs" Line="28" Column="1" />
       <File FileName="TodoFirebase/Views/TodoListPage.xaml" />
+      <File FileName="TodoFirebase/Views/TodoListPage.xaml.cs" Line="35" Column="10" />
+      <File FileName="TodoFirebase/Views/TodoItemPage.xaml.cs" Line="12" Column="8" />
+      <File FileName="TodoFirebase/Views/TodoItemPage.xaml" />
+      <File FileName="TodoFirebase/Helpers/FirebaseHelper.cs" Line="34" Column="1" />
+      <File FileName="TodoFirebase/Models/TodoItem.cs" Line="16" Column="35" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,11 +14,13 @@
           <Node name="TodoFirebase" expanded="True">
             <Node name="TodoFirebase" expanded="True">
               <Node name="Helpers" expanded="True" />
-              <Node name="Models" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="TodoItem.cs" selected="True" />
+              </Node>
               <Node name="Views" expanded="True">
                 <Node name="MainPage.xaml" expanded="True" />
                 <Node name="TodoItemPage.xaml" expanded="True" />
-                <Node name="TodoListPage.xaml" expanded="True" selected="True" />
+                <Node name="TodoListPage.xaml" expanded="True" />
               </Node>
               <Node name="App.xaml" expanded="True" />
             </Node>
@@ -31,9 +33,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/mjmersenski/Desktop/Mobile/mobile/TodoFirebase/TodoFirebase/Views/TodoItemPage.xaml.cs" relfile="TodoFirebase/Views/TodoItemPage.xaml.cs" line="28" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
